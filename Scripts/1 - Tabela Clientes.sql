@@ -1,3 +1,6 @@
+-- Modificação de Linguagem
+SET LANGUAGE 'us_english'
+
 -- Criação da tabela
 CREATE TABLE [dbo].[Clientes](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
